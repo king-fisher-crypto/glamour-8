@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Heavy.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Heavy.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Heavy.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Book.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Book.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Book.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Bold.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Bold.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Bold.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-MediumItalic.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-MediumItalic.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-MediumItalic.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Medium.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Medium.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Medium.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans MT Pro';
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Light.eot');
+    src: url('../fonts/GillSansMTPro/GillSansMTPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Light.woff2') format('woff2'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Light.woff') format('woff'),
+        url('../fonts/GillSansMTPro/GillSansMTPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+$gillSansMTPro: 'Gill Sans MT Pro', 'Helvetica', Arial, 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;

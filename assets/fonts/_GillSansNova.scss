@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('../fonts/GillSansNova/GillSansNova.eot');
+    src: url('../fonts/GillSansNova/GillSansNova.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansNova/GillSansNova.woff2') format('woff2'),
+        url('../fonts/GillSansNova/GillSansNova.woff') format('woff'),
+        url('../fonts/GillSansNova/GillSansNova.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gill Sans Nova';
+    src: url('../fonts/GillSansNova/GillSansNova-Bold.eot');
+    src: url('../fonts/GillSansNova/GillSansNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GillSansNova/GillSansNova-Bold.woff2') format('woff2'),
+        url('../fonts/GillSansNova/GillSansNova-Bold.woff') format('woff'),
+        url('../fonts/GillSansNova/GillSansNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+$gillSansNova: 'Gill Sans Nova', 'Helvetica', Arial, 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;
